@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.photo {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+h1 {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 300px;
+}
+
+.resume .photo img {
+    display: block;
+    width: 350px;
+    border-radius: 50px;
+}
