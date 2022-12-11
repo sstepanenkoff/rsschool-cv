@@ -20,7 +20,8 @@
 var args = Array.prototype.slice.call(arguments);
     // or the es6 way:
     var args = Array.from(arguments)
-    ```
+
+```
 ---
 ## Language
 - _**English - B1**_
