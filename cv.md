@@ -10,19 +10,19 @@
 
 ___
 
-##Skills
+## Skills
 - HTML
 - CSS
 - Sass
 - Bootstrap
 ---
-##Code Exemple 
-```
-var args = Array.prototype.slice.call(arguments);
+## Code Exemple 
+``` var args = Array.prototype.slice.call(arguments);
 
 // or the es6 way:
 var args = Array.from(arguments)
 ```
-##Language
+
+## Language
 - ***English - B1***
 - ***Russian - Native***
