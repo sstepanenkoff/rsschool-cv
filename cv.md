@@ -17,7 +17,7 @@ _**[Rolling Scopes School](https://github.com/rolling-scopes-school)**_
 // or the es6 way:
 var args = Array.from(arguments)
 ```
-
+---
 ## Language
 - _**English - B1**_
 - _**Russian - Native**_
