@@ -1,4 +1,5 @@
 # Sergii Stepanenko
+---
 ## Contacts
 - ##### location: Stassfurt, Germany
 - ##### Phone: +49 160 4345 5455
@@ -11,10 +12,10 @@
 - Bootstrap
 ---
 ## Code Exemple 
-```var args = Array.prototype.slice.call(arguments);
-
-// or the es6 way:
-var args = Array.from(arguments)
+```
+var args = Array.prototype.slice.call(arguments);
+    // or the es6 way:
+    var args = Array.from(arguments).
 ```
 ---
 ## Language
