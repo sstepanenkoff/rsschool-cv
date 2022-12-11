@@ -10,11 +10,12 @@
 - Bootstrap
 ## Code Example
 
-```
-var args = Array.prototype.slice.call(arguments);
-    // or the es6 way:
-    var args = Array.from(arguments)
+```function sum(a, b) {
+  return a + b;
+}
 
+let result = sum(1, 2);
+alert( result );
 ```
 
 ## Language
