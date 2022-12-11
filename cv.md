@@ -1,4 +1,3 @@
-_**[Rolling Scopes School](https://github.com/rolling-scopes-school)**_
 # Sergii Stepanenko
 ## Contacts
 - ##### location: Stassfurt, Germany
