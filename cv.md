@@ -8,7 +8,7 @@
 - CSS
 - Sass
 - Bootstrap
-## Code Exemple
+## Code Example
 
 ```
 var args = Array.prototype.slice.call(arguments);
