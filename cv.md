@@ -1,4 +1,4 @@
-***[Rolling Scopes School](https://github.com/rolling-scopes-school)***
+_**[Rolling Scopes School](https://github.com/rolling-scopes-school)**_
 
 ---
 
@@ -7,9 +7,7 @@
 - ##### location: Stassfurt, Germany
 - ##### Phone: +49 160 4345 5455
 - ##### [GitHub](https://github.com/sstepanenkoff)
-
-___
-
+---
 ## Skills
 - HTML
 - CSS
@@ -24,5 +22,5 @@ var args = Array.from(arguments)
 ```
 
 ## Language
-- ***English - B1***
-- ***Russian - Native***
+- _**English - B1**_
+- _**Russian - Native**_
