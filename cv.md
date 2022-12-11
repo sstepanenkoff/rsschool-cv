@@ -1,9 +1,6 @@
 _**[Rolling Scopes School](https://github.com/rolling-scopes-school)**_
-
----
-
-#Sergii Stepanenko
-##Contacts
+# Sergii Stepanenko
+## Contacts
 - ##### location: Stassfurt, Germany
 - ##### Phone: +49 160 4345 5455
 - ##### [GitHub](https://github.com/sstepanenkoff)
